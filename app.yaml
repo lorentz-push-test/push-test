@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: push-test
+owner: lorentz-push-test
+package: .
